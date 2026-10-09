@@ -14,7 +14,22 @@
 
 | 课程 | Notebook | 状态 |
 | --- | --- | --- |
-| Transformers 入门 | [transformers_intro.ipynb](transformers_intro.ipynb) | 待整理 |
-| 基础 Chatbot | [chatbot_vllm.ipynb](chatbot_vllm.ipynb) | 待整理 |
+| Agents 101 | [build_airbnb_agent_mcp.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/build_airbnb_agent_mcp.ipynb) | 待整理 |
+| Agents 201 | [Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb) | 待整理 |
+| AI on AMD | [chatbot_vllm.ipynb](chatbot_vllm.ipynb) | 待整理 |
+| Diffusion Models - Image Generation | [diffusion-models_image-generation-lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/diffusion-models_image-generation-lab.ipynb) | 待整理 |
+| Diffusion Models - Video Generation | [diffusion-models_video-generation-lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/diffusion-models_video-generation-lab.ipynb) | 待整理 |
+| Finetuning Your Own R1 Reasoning Model on Unsloth | [unsloth_Llama3_1_8B_GRPO.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/unsloth_Llama3_1_8B_GRPO.ipynb) | 待整理 |
+| GPU Optimization for LLM Inference - Lab 1 | [GPU-Optimization-for-LLM-inference/Lab1.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/GPU-Optimization-for-LLM-inference/Lab1.ipynb) | 待整理 |
+| GPU Optimization for LLM Inference - Lab 2 | [GPU-Optimization-for-LLM-inference/Lab2.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/GPU-Optimization-for-LLM-inference/Lab2.ipynb) | 待整理 |
+| HF on AMD | [transformers_intro.ipynb](transformers_intro.ipynb) | 待整理 |
+| LLM Serving Inference with vLLM and MI300X GPUs | [mi300x-vllm-serving.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/mi300x-vllm-serving.ipynb) | 待整理 |
+| Reinforcement Learning with LLMs | [GSPO/GSPO-notebook.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/GSPO/GSPO-notebook.ipynb) | 待整理 |
+| Triton Kernel Development on AMD Instinct GPUs | [ai_academy_triton_kernel_development.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/ai_academy_triton_kernel_development.ipynb) | 待整理 |
+| CUDA-to-HIP Conversion | [CUDA-to-HIP_Migration_Labs/CUDA_to_HIP_Conversion_Lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/CUDA-to-HIP_Migration_Labs/CUDA_to_HIP_Conversion_Lab.ipynb) | 待整理 |
+| HIP Programming Basics | [CUDA-to-HIP_Migration_Labs/HIP_Programming_Basics_Lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/CUDA-to-HIP_Migration_Labs/HIP_Programming_Basics_Lab.ipynb) | 待整理 |
+| HIP Kernel Programming | [CUDA-to-HIP_Migration_Labs/HIP_Kernel_Programming_Lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/CUDA-to-HIP_Migration_Labs/HIP_Kernel_Programming_Lab.ipynb) | 待整理 |
+| GPU Debugging with ROCgdb | [CUDA-to-HIP_Migration_Labs/GPU_Debugging_with_ROCgdb_Lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/CUDA-to-HIP_Migration_Labs/GPU_Debugging_with_ROCgdb_Lab.ipynb) | 待整理 |
+| GPU Profiling with rocprof | [CUDA-to-HIP_Migration_Labs/GPU_Profiling_with_rocprof_Lab.ipynb](https://github.com/AMD-AIM/radeon-cloud-notebooks/blob/upstream-ai-academy/CUDA-to-HIP_Migration_Labs/GPU_Profiling_with_rocprof_Lab.ipynb) | 待整理 |
 
-当前两份 Notebook 保留原始内容，尚未完成 Radeon 适配及实机验证。后续根据实际验证结果补充运行环境与必要说明。
+课程顺序与原始 AI Academy 一致；尚未引入 Radeon 分支的 Notebook 链接指向原始归档。当前课程均未完成 Radeon 适配及实机验证，后续根据实际验证结果补充运行环境与必要说明。
