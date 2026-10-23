@@ -9,7 +9,7 @@ Source: [AMD AI Academy](https://github.com/AMD-ROCm-Internal/ai-academy-interna
 | Course | Notebook | AI Academy base image | Dockerfile |
 | --- | --- | --- | --- |
 | Agents 101 | [build_airbnb_agent_mcp.ipynb](build_airbnb_agent_mcp.ipynb) | `vllm/vllm-openai-rocm:v0.26.0` | [Dockerfile](docker/vllm-openai-rocm-v0.26.0.Dockerfile) |
-| Agents 201 | [Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb](Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb) | `shailensobhee1/agentic-ai-adk-tutorial:20260317` | [Dockerfile](docker/agentic-ai-adk-tutorial-20260317.Dockerfile) |
+| Agents 201 | [Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb](Tutorial_Powering_Google_ADK_on_AMD_Platform_and_Local_LLMs.ipynb) | `shailensobhee1/agentic-ai-adk-tutorial:20260317` | [Dockerfile](docker/agentic-ai-adk-tutorial-native-tools.Dockerfile) · [requirements](docker/agentic-ai-adk-tutorial-native-tools.requirements.txt) |
 | AI on AMD | [chatbot_vllm.ipynb](chatbot_vllm.ipynb) | `vllm/vllm-openai-rocm:v0.16.0` | [Dockerfile](docker/vllm-openai-rocm-v0.16.0.Dockerfile) |
 | Diffusion Models - Image Generation | [diffusion-models_image-generation-lab.ipynb](diffusion-models_image-generation-lab.ipynb) | `vllm/vllm-openai-rocm:v0.26.0` | [Dockerfile](docker/vllm-openai-rocm-v0.26.0.Dockerfile) |
 | Diffusion Models - Video Generation | [diffusion-models_video-generation-lab.ipynb](diffusion-models_video-generation-lab.ipynb) | `vllm/vllm-openai-rocm:v0.26.0` | [Dockerfile](docker/vllm-openai-rocm-v0.26.0-web.Dockerfile) |
