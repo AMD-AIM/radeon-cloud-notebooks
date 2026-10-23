@@ -16,6 +16,7 @@ ARG PIP_INDEX_URL=https://mirrors.aliyun.com/pypi/simple/
 RUN python3 -m pip install --no-cache-dir jupyterlab ipykernel ipywidgets
 
 # Basic settings and startup reset for local validation; Radeon Cloud manages runtime settings.
+ENV SHELL=/bin/bash
 WORKDIR /workspace
 EXPOSE 8888 22
 ENTRYPOINT []
